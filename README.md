@@ -1,0 +1,4 @@
+# To Do Python Project
+This project is a to do list using python. Different users are able to create new profiles and protect their to do items using a password. This password is then encrypted using hash encrypting. Items are able to be marked as complete and the time to complete each item is recorded for the user. To do items can also be searched using status, ID and for key words. New users can be added to the to do program and can create their own to do items. All users and to do items are saved so that the user can log in at any time and use this program without fear of losing their information.
+
+Please run the todofrontend.py file to execute the progam.
